@@ -1,0 +1,71 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+h1{
+    font-size: 45px;
+    color: dimgrey;
+} 
+
+.Skip {
+ color:orange ;
+ }
+section{
+display: flex;
+}
+  
+.pic{
+    width: 50%;
+   
+   padding: 10% 10%;
+  
+   
+}
+.pic image{
+    width: 50%;
+    
+    
+}
+
+
+
+.order-button{
+    text-decoration: none;
+    background-image: linear-gradient(yellow,red);
+    padding: 5px 17px;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: bold;
+    color: whitesmoke;
+    
+}
+.about-me{
+  background-image: url(images/shapes/new.png);
+  background-repeat: no-repeat;
+}
+.recipies{
+    padding: 25%;
+    text-align: center;
+    padding-top: 0;
+   
+}
+h2{
+    font-size: 17px;
+    font-weight: normal;
+}
+.box{
+    
+    display: inline-block;
+    width: 200%;
+    height: 200%;
+    background-color: lightgray;
+    box-sizing: content-box;
+    
+}
+.container{
+    text-align: center;
+}
+.box image{
+    width: 100%;
+    height: 100%;
+}
